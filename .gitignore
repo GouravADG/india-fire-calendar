@@ -1,0 +1,8 @@
+Raw/
+Data/modis.parquet
+Data/snpp.parquet
+Data/n20.parquet
+Data/n21.parquet
+Data/clean_*.parquet
+Data/grid_monthly.parquet
+__pycache__/
